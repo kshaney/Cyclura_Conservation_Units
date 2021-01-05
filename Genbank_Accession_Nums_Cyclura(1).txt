@@ -1,0 +1,2881 @@
+GenBank flat file:
+
+LOCUS       MT410640                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate MCa100 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410640
+VERSION     MT410640
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="MCa100"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46806"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLILLILKP
+                    DLTSNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatgac tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcattcta ctaatcctta aacccgatct
+     661 aacctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410641                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate MCa94 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410641
+VERSION     MT410641
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="MCa94"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46807"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLILLILKP
+                    DLTSNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatgac tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcattcta ctaatcctta aacccgatct
+     661 aacctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410642                 793 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate MCa86 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His gene, complete sequence; and
+           tRNA-Ser gene, partial sequence; mitochondrial.
+ACCESSION   MT410642
+VERSION     MT410642
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 793)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 793)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..793
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="MCa86"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46808"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLILLILKP
+                    DLTSNYFAC"
+    misc_feature    686..>793
+                    /note="contains tRNA-His and tRNA-Ser"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatgac tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcattcta ctaatcctta aacccgatct
+     661 aacctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tga
+//
+LOCUS       MT410643                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate MCa56 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410643
+VERSION     MT410643
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="MCa56"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46809"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLILLILKP
+                    DLTSNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatgac tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcattcta ctaatcctta aacccgatct
+     661 aacctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gacacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410644                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate MCa47 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410644
+VERSION     MT410644
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="MCa47"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46810"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLILLILKP
+                    DLTSNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatgac tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcattcta ctaatcctta aacccgatct
+     661 aacctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410645                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate Gu196 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410645
+VERSION     MT410645
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="Gu196"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46811"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410646                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate Gu189 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410646
+VERSION     MT410646
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="Gu189"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46812"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLYMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattataca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410647                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate Gu185 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410647
+VERSION     MT410647
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="Gu185"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46813"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410648                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate Gu183 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410648
+VERSION     MT410648
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="Gu183"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46814"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410649                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate Gu182 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410649
+VERSION     MT410649
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="Gu182"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46815"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410650                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CVe128 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410650
+VERSION     MT410650
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CVe128"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46816"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410651                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CVe115 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410651
+VERSION     MT410651
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CVe115"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46817"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacatgata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410652                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CVe113 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410652
+VERSION     MT410652
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CVe113"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46818"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacatgata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410653                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CVe109 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410653
+VERSION     MT410653
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CVe109"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46819"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410654                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CVe107 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410654
+VERSION     MT410654
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CVe107"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46820"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacatgata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410655                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate COb80 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410655
+VERSION     MT410655
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="COb80"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46821"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410656                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate COb77 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410656
+VERSION     MT410656
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="COb77"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46822"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410657                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate COb72 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410657
+VERSION     MT410657
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="COb72"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46823"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacatgata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410658                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate COb69 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410658
+VERSION     MT410658
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="COb69"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46824"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacatgata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410659                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate COb64 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410659
+VERSION     MT410659
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="COb64"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46825"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacatgata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410660                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CMa181 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410660
+VERSION     MT410660
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CMa181"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46826"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat cattaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410661                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CMa171 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410661
+VERSION     MT410661
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CMa171"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46827"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat cattaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410662                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CMa166 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410662
+VERSION     MT410662
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CMa166"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46828"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat cattaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410663                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CMa162 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410663
+VERSION     MT410663
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CMa162"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46829"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat cattaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410664                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CMa158 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410664
+VERSION     MT410664
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CMa158"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46830"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat cattaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410665                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CBl150 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410665
+VERSION     MT410665
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CBl150"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46831"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410666                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CBl141 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410666
+VERSION     MT410666
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CBl141"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46832"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410667                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CBl136 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410667
+VERSION     MT410667
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CBl136"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46833"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410668                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CBl132 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410668
+VERSION     MT410668
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CBl132"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46834"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410669                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CBl129 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410669
+VERSION     MT410669
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CBl129"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46835"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNLMPLHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcactcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 catcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacctcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410670                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CAl40 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410670
+VERSION     MT410670
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CAl40"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46836"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAVLTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggactg gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccgt cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatac cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410671                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CAl39 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410671
+VERSION     MT410671
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CAl39"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46837"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAVLTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggactg gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccgt cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatac cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410672                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CAl37 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410672
+VERSION     MT410672
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CAl37"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46838"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 gacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa tagacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410673                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CAl33 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410673
+VERSION     MT410673
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CAl33"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46839"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAVLTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggactg gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccgt cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatac cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gacacaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410674                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CAl30 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410674
+VERSION     MT410674
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CAl30"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46840"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAVLTNMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPLHIITTNPTHTREHLIMALHTLPLVLLILKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacat taatgccaat
+      61 aacacaaaaa ctatactacc ccttcatgat cttagcccta tgaggaatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg cctgcctaat ccaaacacca tgaagcatta cgggggctat
+     241 aaccctaata attgcccatg gtttaacatc ttccataata ttctgcttag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccgt cctcacaaac atagccctgc ccccaactat
+     421 taacataata ggagaaatta tgatcatctc cgccctgttc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcactacaca tattcctaac
+     541 aacacaacga aacatcatgc cacttcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatc atagccctac acaccctacc cctcgttcta ctaatcctta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa taggcaatcc
+     841 attggtttta ggcaccaaaa atct
+//
+LOCUS       MT410675                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CCo28 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410675
+VERSION     MT410675
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CCo28"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46841"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410676                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CCo27 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410676
+VERSION     MT410676
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CCo27"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46842"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta tgatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410677                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CCo26 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410677
+VERSION     MT410677
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CCo26"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46843"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta taatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410678                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CCo22 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410678
+VERSION     MT410678
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CCo22"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46844"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta taatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
+LOCUS       MT410679                 864 bp    DNA     linear   VRT 16-DEC-2020
+DEFINITION  Cyclura nubila nubila isolate CCo21 NADH dehydrogenase subunit 4
+           (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+           sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   MT410679
+VERSION     MT410679
+KEYWORDS    .
+SOURCE      mitochondrion Cyclura nubila nubila
+ ORGANISM  Cyclura nubila nubila
+           Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+           Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+           Toxicofera; Iguania; Iguanidae; Iguaninae; Cyclura.
+REFERENCE   1  (bases 1 to 864)
+ AUTHORS   Shaney,K.J., Diaz-Ramirez,L.G., Espindola,S., Castaneda-Rico,S.,
+           Berovides-Alvarez,V. and Vazquez-Dominguez,E.
+ TITLE     Defining intraspecific conservation units in the endemic Cuban Rock
+           Iguanas (Cyclura nubila nubila)
+ JOURNAL   Sci Rep 10 (1), 21607 (2020)
+  PUBMED   33303852
+ REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 864)
+ AUTHORS   Vazquez-Dominguez,E., Espindola,S. and Castaneda-Rico,S.
+ TITLE     Direct Submission
+ JOURNAL   Submitted (29-APR-2020) Ecologia de la Biodiversidad, Instituto de
+           Ecologia, UNAM, 3er Circuito Exterior, Anexo J. Botanico, Ciudad de
+           Mexico 04510, Mexico
+COMMENT     ##Assembly-Data-START##
+           Sequencing Technology :: Sanger dideoxy sequencing
+           ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+    source          1..864
+                    /organism="Cyclura nubila nubila"
+                    /organelle="mitochondrion"
+                    /mol_type="genomic DNA"
+                    /isolate="CCo21"
+                    /sub_species="nubila"
+                    /db_xref="taxon:118689"
+                    /tissue_type="blood"
+                    /country="Cuba"
+                    /collected_by="L. Grisell Diaz Ramirez"
+    gene            <1..685
+                    /gene="ND4"
+    CDS             <1..685
+                    /gene="ND4"
+                    /codon_start=2
+                    /transl_table=2
+                    /product="NADH dehydrogenase subunit 4"
+                    /protein_id="QPZ46845"
+                    /translation="ILLKLGGYGIIRITLTLMPMTQKLYYPFMILALWGIVMTSSICM
+                    RQTDLKSLIAYSSVSHMGLVIAACLIQTPWSITGAMTLMIAHGLTSSMMFCLANTNYE
+                    RTHTRTMILTRGLQIILPLMTSWWLLAILANMALPPTINMMGEIMIISALFNWSSPTI
+                    ILTGLGTLITAVYSLHMFLTTQRNIMPPHIITTNPTHTREHLIMALHTLPLVLLMLKP
+                    DLISNYFAC"
+    misc_feature    686..>864
+                    /note="contains tRNA-His, tRNA-Ser, and tRNA-Leu"
+ORIGIN      
+       1 catcctacta aaactgggag gctacggaat catccgaatc accctaacac taatgccaat
+      61 aacacaaaaa ctatactacc ccttcataat cttagcccta tgagggatcg taatgaccag
+     121 ctcaatctgc atacgacaaa cggacctaaa atcgctcatc gcctactcct cagtcagcca
+     181 cataggacta gtcatcgctg catgcctaat ccaaacacca tgaagcatta caggagctat
+     241 aaccctaata attgcccacg gcttaacatc ttccataata ttctgcctag ccaacaccaa
+     301 ctacgaacga acccacaccc gaaccataat cctaacacga ggcctccaaa tcatccttcc
+     361 cctaataacc tcatgatggc tactagccat cctcgcaaac atagccctgc ccccaactat
+     421 caacataata ggagaaatta taatcatctc cgccctattc aattgatcct caccaacaat
+     481 tatcttaaca ggcctaggaa ccctaatcac agccgtgtac tcattacaca tattcctaac
+     541 aacacaacga aacatcatgc cacctcacat catcaccaca aacccaacac acacccgaga
+     601 acatctcatt atagccctac acactctacc cctcgttcta ctaatactta aacccgatct
+     661 aatctcaaac tacttcgcct gttagcatag tttaataaaa acattaggat gtggccctaa
+     721 aaaaagaagt gcaacccttc ttgcgaaccg agaggtgttt agaacactaa gaactgctaa
+     781 ttcttatccc tgaagttaaa ttcctcagac ccctcacttt taaaggataa gaggcaatcc
+     841 gttggtttta ggcaccaaaa atct
+//
